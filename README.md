@@ -1,6 +1,6 @@
 # Lem_in
 
-The goal of this project is to find the quickest way to get n ants accross the farm.
+The goal of this project is to find a way to get n ants accross the farm.
 
 At the beginning of the game, all the ants are in the room ##start. The goal is
 to bring them to the room ##end with as few turns as possible.
